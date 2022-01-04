@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravinder58
-- 👀 I’m interested in learning python development
-- 🌱 I’m currently learning python+HTML5+CSS3+JS
-- 💞️ I’m looking to collaborate on python development projects
+- 👀 I’m interested to learn further into Java-Selenium Projects.
+- 🌱 I’m also learning python+HTML5+CSS3+JS
+- 💞️ I’m looking to collaborate on Automation testing development projects.
 - 📫 How to reach me https://www.linkedin.com/in/ravinder-singh08/
 
 <!---
