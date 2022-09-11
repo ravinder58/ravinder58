@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravinder58
+- 👋 Hi, I’m Ravinder 
 - 👀 I’m interested to learn further into Java-Selenium Projects.
 - 🌱 I’m also learning python+HTML5+CSS3+JS
 - 💞️ I’m looking to collaborate on Automation testing development projects.
