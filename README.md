@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ravinder 
-- 👀 I’m interested to learn further into Java-Selenium Projects.
-- 🌱 I’m also learning python+HTML5+CSS3+JS
-- 💞️ I’m looking to collaborate on Automation testing development projects.
+- 👀 I’m learing the Automation Test tools 
+- 🌱 I’m actively doing projects for Cypress, Selenium 
+- 💞️ I’m looking  to collaborate on Automation testing development projects.
 - 📫 How to reach me https://www.linkedin.com/in/ravinder-singh08/
 
 <!---
