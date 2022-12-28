@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ravinder 
-- 👀 I’m learing the Automation Test tools 
-- 🌱 I’m actively doing projects for Cypress, Selenium 
-- 💞️ I’m looking  to collaborate on Automation testing development projects.
+- 👋 Hello Reader, I am Ravinder Singh.
+- 👀 I’m learning and implementing Test Automation Tools and Frameworks.
+- 🌱 I’m currently involved actively in doing test projects for Cypress, Selenium. I am proficient with the usage of JavaScript, Java.
+- 💞️ I’m open to collaborate on ongoing Automation testing development projects.
 - 📫 How to reach me https://www.linkedin.com/in/ravinder-singh08/
 
 <!---
